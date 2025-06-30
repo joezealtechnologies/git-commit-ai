@@ -168,26 +168,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 **Made with ❤️ by developers, for developers**
-
-**Powered by Google Gemini AI** 🤖
-```
-
-## **Now publish:**
-
-```bash
-npm publish
-```
-
-## **After publishing, test it:**
-
-```bash
-# Install globally
-npm install -g gemini-commit-ai
-
-# Test it
-gemini-commit-ai --help
-
-# Test in a git repo
-cd /path/to/your/git/repo
-git add .
-gemini-commit-ai
