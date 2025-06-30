@@ -191,13 +191,3 @@ gemini-commit-ai --help
 cd /path/to/your/git/repo
 git add .
 gemini-commit-ai
-```
-
-## **Create GitHub repository:**
-
-```bash
-git init
-git add .
-git commit -m "feat: initial release of gemini-commit-ai"
-git remote add origin https://github.com/yourusername/gemini-commit-ai.git
-git push -u origin main
